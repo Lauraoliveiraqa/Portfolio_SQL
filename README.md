@@ -1,6 +1,6 @@
-<h2># 📊 Portfolio de Consultas SQL</h2>
+<h2> 📊 Portfolio de Consultas SQL</h2>
 
-## 🎓 Visão Geral do Projeto
+ 🎓 Visão Geral do Projeto
 
 Este repositório contém uma coleção de 9 consultas SQL desenvolvidas para a conclusão do curso de **SQL  STRUCTURED QUERY LANGUAGE** da **FGV (Fundação Getúlio Vargas)**.
 
@@ -15,8 +15,7 @@ O objetivo é demonstrar proficiência na manipulação de dados econômicos e s
 * **Linguagem:** SQL 
 
 ---
-
-## <h3>📂 Estrutura e Documentação das Queries</h3>
+<h3>📂 Estrutura e Documentação das Queries</h3>
 
 Cada consulta é um arquivo `.sql` que segue uma estrutura padronizada para facilitar a leitura e o entendimento da lógica:
 
