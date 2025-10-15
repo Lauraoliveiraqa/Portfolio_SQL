@@ -8,7 +8,7 @@ O objetivo é demonstrar proficiência na manipulação de dados econômicos e s
 
 ---
 
-<h3>## 🛠️ Tecnologias e Ferramentas</h3>
+<h3> 🛠️ Tecnologias e Ferramentas</h3>
 
 * **SQLite**
 * **DBeaver**
