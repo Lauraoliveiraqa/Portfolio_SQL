@@ -43,3 +43,30 @@ FROM avg_income ren1
 JOIN gdp_pc pib1 ON ren1.country = pib1.country AND ren1.ref_year = pib1.ref_year
 WHERE ren1.ref_year = '2020'
   AND ren1.mean_usd = (SELECT MIN(ren3.mean_usd) FROM avg_income ren3 WHERE ren3.ref_year = '2020');
+
+---
+
+<h3>📈 Dashboards e Visualizações</h3>
+
+Além das consultas SQL, este portfólio inclui projetos complementares desenvolvidos no **Power BI**, utilizando dados e resultados obtidos a partir das queries originais.
+
+🔹 **06 — Expectativa de Vida Global (1975 × 2023)**  
+Análise comparativa entre 1975 e 2023, identificando os países líderes em expectativa de vida em cada região do Banco Mundial.  
+Projeto desenvolvido com base na consulta `06_maior_expectativa_vida_por_regiao_1975.sql`, expandido para visualização analítica.  
+📄 [Acessar Dashboard (PDF)](./06_expectativa_vida_dashboard_1975_2023/dashboard_vida_global.pdf)  
+📘 [Ver Detalhes do Projeto](./06_expectativa_vida_dashboard_1975_2023/README.md)
+
+---
+
+<h4>🧭 Organização</h4>
+
+Cada diretório dentro deste repositório contém:
+- O arquivo `.sql` com a consulta;
+- Comentários explicando a lógica e interpretação;
+- (Quando aplicável) o dashboard correspondente desenvolvido em Power BI.
+
+---
+
+✍️ **Autoria**  
+Repositório mantido por **Laura Oliveira**  
+📂 GitHub: [@Lauraoliveiraqa](https://github.com/Lauraoliveiraqa)
