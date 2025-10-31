@@ -6,15 +6,15 @@ O projeto combina SQL para extração dos dados e Power BI para a visualização
 
 📊 **Estrutura**
 
--consulta_taxa_natalidade_2018.sql → Query SQL para identificar o país com menor taxa de natalidade por faixa de renda.
--dashboard_taxa_natalidade_2018.pbix → Dashboard desenvolvido no Power BI.
--dashboard_taxa_natalidade_2018.pdf → Versão exportada do dashboard.
+`consulta_taxa_natalidade_2018.sql` → Query SQL para identificar o país com menor taxa de natalidade por faixa de renda.
+`dashboard_taxa_natalidade_2018.pbix` → Dashboard desenvolvido no Power BI.
+`dashboard_taxa_natalidade_2018.pdf` → Versão exportada do dashboard.
 
 🔍 **Ferramentas**
 
--**SQLite + DBeaver** — execução das consultas SQL
--**Power BI** — visualização e construção do dashboard
--**GitHub** — versionamento e portfólio público
+- **SQLite + DBeaver** — execução das consultas SQL
+- **Power BI** — visualização e construção do dashboard
+- **GitHub** — versionamento e portfólio público
 
 📈 **Principais Insights**
 
