@@ -46,7 +46,7 @@ WHERE ren1.ref_year = '2020'
 
 ---
 
-<h3>📈 Dashboards e Visualizações</h3>
+## 📈 Dashboards e Visualizações
 
 Além das consultas SQL, este portfólio inclui projetos complementares desenvolvidos no **Power BI**, utilizando dados e resultados obtidos a partir das queries originais.
 
@@ -58,7 +58,7 @@ Projeto desenvolvido com base na consulta `06_maior_expectativa_vida_por_regiao_
 
 ---
 
-<h4>🧭 Organização</h4>
+## 🧭 Organização
 
 Cada diretório dentro deste repositório contém:
 - O arquivo `.sql` com a consulta;
@@ -67,6 +67,6 @@ Cada diretório dentro deste repositório contém:
 
 ---
 
-✍️ **Autoria**  
-Repositório mantido por **Laura Oliveira**  
+## ✍️ Autoria
+Repositório mantido por ### Laura Oliveira  
 📂 GitHub: [@Lauraoliveiraqa](https://github.com/Lauraoliveiraqa)
