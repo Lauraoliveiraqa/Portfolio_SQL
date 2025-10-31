@@ -18,6 +18,7 @@ O projeto combina SQL para extração dos dados e Power BI para a visualização
 - **GitHub** — versionamento e portfólio público
 
 
+
 📈 **Principais Insights**
 
 Em 2018, os países com maior renda apresentaram as menores taxas de natalidade do mundo.
@@ -30,6 +31,7 @@ O padrão confirma uma relação inversa entre renda e fecundidade — quanto ma
 📄 [Visualizar Dashboard (PDF)](./dashboard_emissao_co2_latam.pdf)
 
 
-✍️ **Autoria**
-Desenvolvido por Laura Oliveira
-📂 GitHub: @Lauraoliveiraqa
+✍️ **Autoria**  
+Desenvolvido por **Laura Oliveira**  
+📂 GitHub: [@Lauraoliveiraqa](https://github.com/Lauraoliveiraqa)
+
