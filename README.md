@@ -68,5 +68,5 @@ Cada diretório dentro deste repositório contém:
 ---
 
 ## ✍️ Autoria
-Repositório mantido por ### Laura Oliveira  
+Repositório mantido por **Laura Oliveira**  
 📂 GitHub: [@Lauraoliveiraqa](https://github.com/Lauraoliveiraqa)
