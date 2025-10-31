@@ -43,7 +43,7 @@ FROM avg_income ren1
 JOIN gdp_pc pib1 ON ren1.country = pib1.country AND ren1.ref_year = pib1.ref_year
 WHERE ren1.ref_year = '2020'
   AND ren1.mean_usd = (SELECT MIN(ren3.mean_usd) FROM avg_income ren3 WHERE ren3.ref_year = '2020');
-###
+```
 ---
 
 ## 📈 Dashboards e Visualizações
