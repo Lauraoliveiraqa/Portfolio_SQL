@@ -1,4 +1,4 @@
-#👶 Menor Taxa de Natalidade — Banco Mundial (2018)
+# 👶 Menor Taxa de Natalidade — Banco Mundial (2018)
 
 ## 🧠 Descrição
 Análise comparativa das menores taxas de natalidade por classificação de renda (alta, média e baixa) em 2018, com base nos dados do Banco Mundial.
