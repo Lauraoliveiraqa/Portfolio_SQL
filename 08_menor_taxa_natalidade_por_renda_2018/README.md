@@ -1,5 +1,7 @@
 # 👶 Menor Taxa de Natalidade — Banco Mundial (2018)
 
+---
+
 🧠 **Descrição**
 Análise comparativa das menores taxas de natalidade por classificação de renda (alta, média e baixa) em 2018, com base nos dados do Banco Mundial.
 O projeto combina SQL para extração dos dados e Power BI para a visualização das tendências demográficas e socioeconômicas.
@@ -33,6 +35,7 @@ O padrão confirma uma relação inversa entre renda e fecundidade — quanto ma
 📎**Dashboard**
 📄 [Visualizar Dashboard (PDF)](./dashboard_emissao_co2_latam.pdf)
 
+---
 
 ✍️ **Autoria**  
 Desenvolvido por **Laura Oliveira**  
